@@ -4,15 +4,19 @@
 
   //Example 1
   
-   getName(); // In Simple function output is show 
-   name(); //But In Arrow function output in not show because the name of the function is store in datatype
-   let num = 3; // This is also show error.
-   function getName () {
-    console.log("Aadarsh Kumar")
-   }
-   const name = () => {
-     console.log('Aadarsh')
-   }
+  //  getName(); // In Simple function output is show 
+  //  name(); //But In Arrow function output in not show because the name of the function is store in datatype
+  //  let num = 3; // This is also show error.
+  //  function getName () {
+  //   console.log("Aadarsh Kumar")
+  //  }
+  //  const name = () => {
+  //    console.log('Aadarsh')
+  //  }
 
-name()
+     // Conversion of Number into String 
+       let number = 343;
+       let StringNumber = String(number);
+       console.log(StringNumber)
+       console.log(typeof StringNumber)
   
