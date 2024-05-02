@@ -12,5 +12,5 @@
    const name = () => {
      console.log('Aadarsh Kumar')
    }
-  console.log(name())
+  console.log(name()); 
 
