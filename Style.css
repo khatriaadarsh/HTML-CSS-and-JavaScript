@@ -1,0 +1,25 @@
+.Red-box{
+    margin: 15% 40%;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 100px;
+}
+.Blue-box{
+    height: 150px;
+    width: 150px;
+    background: blue;
+    border-radius: 100px;
+    position: relative;
+    top: 45%;
+    left: 30%;
+}
+.Green-box{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border-radius: 100px;
+    position: relative;
+    right: 60%;
+}
+
