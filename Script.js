@@ -20,3 +20,14 @@
        console.log(StringNumber)
        console.log(typeof StringNumber)
   
+       console.log( 3**3 ); // Power of number --> 27
+
+        let x = 3;
+        let y = x++;
+
+        console.log( `x: ${x}, y: ${y}` );   // x: 4, y: 3
+
+        let a = 3;
+        let b = ++y;
+
+        console.log( `a: ${a}, b: ${b}`);    // x: 3, y: 4
